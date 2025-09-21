@@ -8,7 +8,8 @@
   <li>Go to Details View</li>
   <li>Choose Year</li>
   <li>Choose Monthly</li>
-  <li>Tap Upload Photos (AirDrop to Mac)</li>
+  <li>Tap Upload Photos</li>
+  <li>AirDrop to Your Mac</li>
   </ol>
 </h3>
 <p>《Enquiries and Support》</p>
