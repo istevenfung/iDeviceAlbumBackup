@@ -1,6 +1,6 @@
 # iDeviceAlbumBackup <img src="iDAB64.png">
 <h3>
-  This app is let you backup album photo by month.
+  This app is let you backup album photo by month via AirDrop to Mac.
   <hr>
   <p>[Album Backup Structure]</p>
   <ol>
